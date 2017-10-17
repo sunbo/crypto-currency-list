@@ -1,19 +1,19 @@
 # 数字货币网站清单
 crypto-currency-list
 
-# 区块链基础知识
+## 区块链基础知识
 1：从数字货币说起 · 区块链技术指南 https://yeasy.gitbooks.io/blockchain_guide/content/born/currency.html
 
 2：精通比特币 http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html
 
 
-# K线图表
+## K线图表
 1：Cryptowatch live charts  https://cryptowat.ch/
 
 2：TradingView  https://cn.tradingview.com/
 
 
-# 统计数据
+## 统计数据
 1：coinmarket  http://coinmarketcap.com/
 
 2：非小号 http://www.feixiaohao.com/
@@ -27,7 +27,7 @@ crypto-currency-list
 6：bitinfocharts https://bitinfocharts.com/zh/
 
 
-# 主流交易所
+## 主流交易所
 1：Bittrex（B网） https://www.bittrex.com/
 
 2：Poloniex（P网） https://www.poloniex.com/
@@ -45,11 +45,11 @@ crypto-currency-list
 8：LocalBitcoins（场外交易） https://localbitcoins.com/zh-cn/
 
 
-# 工具
+## 工具
 1：货币转换 https://coinmarketcap.com/calculator/
 
 
-# ICO
+## ICO
 1：ICO Daily  https://icodaily.net/ 
 
 2：ICObench https://icobench.com/icos 
@@ -93,7 +93,7 @@ crypto-currency-list
 21：CoinSpectator https://coinspectator.com/ 
 
 
-# 数字货币新闻
+## 数字货币新闻
 1：CoinDesk  https://www.coindesk.com/
 
 2：Cointelegraph  https://cointelegraph.com/
@@ -101,7 +101,7 @@ crypto-currency-list
 3：Bitcoin Magazine  https://bitcoinmagazine.com/
 
 
-# 数字货币社区
+## 数字货币社区
 1：reddit https://www.reddit.com/
 
 2：twitter https://twitter.com/
